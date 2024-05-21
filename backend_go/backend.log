@@ -1,0 +1,27 @@
+2023/12/21 21:03:22 cannot get DB_URI from ENV
+2023/12/21 21:03:22 Database is initialized
+2023/12/21 21:03:23 cannot get AUTH_SIGNING_KEY from ENV
+2023/12/21 21:04:26 Origin:  | Forwarded:  | Method: GET | RequestURI: /characters
+2023/12/21 21:04:26 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "characters": invalid syntax
+2023/12/21 21:04:26 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/21 21:04:26 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/21 21:05:09 Origin:  | Forwarded:  | Method: GET | RequestURI: /people
+2023/12/21 21:05:09 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "people": invalid syntax
+2023/12/21 21:05:09 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/21 21:05:09 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/21 21:05:16 Origin:  | Forwarded:  | Method: GET | RequestURI: /1
+2023/12/21 21:05:16 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/21 21:05:16 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/21 21:07:23 http: Server closed
+2023/12/21 21:07:23 shutting down
+2023/12/21 21:07:28 cannot get DB_URI from ENV
+2023/12/21 21:07:28 Database is initialized
+2023/12/21 21:07:28 cannot get AUTH_SIGNING_KEY from ENV
+2023/12/21 21:07:57 Origin:  | Forwarded:  | Method: GET | RequestURI: /characters
+2023/12/21 21:07:57 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/21 21:07:57 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/21 21:08:54 Origin:  | Forwarded:  | Method: GET | RequestURI: /people
+2023/12/21 21:08:54 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/21 21:08:54 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/21 21:09:11 http: Server closed
+2023/12/21 21:09:11 shutting down

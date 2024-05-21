@@ -1,0 +1,463 @@
+2023/12/08 15:08:18 cannot get DB_URI from ENV
+2023/12/08 15:08:19 Database is initialized
+2023/12/08 15:08:19 cannot get AUTH_SIGNING_KEY from ENV
+2023/12/08 15:23:19 Origin:  | Forwarded:  | Method: GET | RequestURI: /
+2023/12/08 15:23:19 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/08 15:23:19 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/08 16:32:49 Origin:  | Forwarded:  | Method: GET | RequestURI: /
+2023/12/08 16:32:49 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/08 16:32:49 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/08 16:32:50 Origin:  | Forwarded:  | Method: GET | RequestURI: /
+2023/12/08 16:32:50 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/08 16:32:50 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/08 19:21:14 cannot get DB_URI from ENV
+2023/12/08 19:21:14 Database is initialized
+2023/12/08 19:21:14 cannot get AUTH_SIGNING_KEY from ENV
+2023/12/08 19:22:29 Origin:  | Forwarded:  | Method: GET | RequestURI: /
+2023/12/08 19:22:30 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/08 19:22:30 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/08 19:22:34 Origin:  | Forwarded:  | Method: GET | RequestURI: /
+2023/12/08 19:22:34 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/08 19:22:34 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/08 19:22:40 Origin:  | Forwarded:  | Method: GET | RequestURI: /characters
+2023/12/08 19:22:40 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "characters": invalid syntax
+2023/12/08 19:22:40 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/08 19:22:40 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/08 19:22:59 Origin:  | Forwarded:  | Method: GET | RequestURI: /1
+2023/12/08 19:22:59 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/08 19:22:59 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/08 19:26:23 Origin:  | Forwarded:  | Method: GET | RequestURI: /1
+2023/12/08 19:26:23 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/08 19:26:23 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/08 19:27:50 Origin:  | Forwarded:  | Method: GET | RequestURI: /
+2023/12/08 19:27:50 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/08 19:27:50 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/08 19:32:16 Origin:  | Forwarded:  | Method: GET | RequestURI: /
+2023/12/08 19:32:16 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/08 19:32:16 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/08 19:36:15 Origin:  | Forwarded:  | Method: GET | RequestURI: /
+2023/12/08 19:36:20 Origin:  | Forwarded:  | Method: GET | RequestURI: /1
+2023/12/08 19:36:24 Origin:  | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/08 19:36:29 Origin:  | Forwarded:  | Method: GET | RequestURI: /people
+2023/12/08 19:36:29 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "people": invalid syntax
+2023/12/08 19:36:29 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/08 19:36:29 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/08 19:37:02 Origin:  | Forwarded:  | Method: GET | RequestURI: /1
+2023/12/08 19:39:42 http: Server closed
+2023/12/08 19:39:42 shutting down
+2023/12/08 19:39:48 cannot get DB_URI from ENV
+2023/12/08 19:39:49 Database is initialized
+2023/12/08 19:39:49 cannot get AUTH_SIGNING_KEY from ENV
+2023/12/08 19:42:00 Origin:  | Forwarded:  | Method: GET | RequestURI: /
+2023/12/08 19:42:00 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/08 19:42:00 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/08 19:42:05 Origin:  | Forwarded:  | Method: GET | RequestURI: /1
+2023/12/08 19:42:05 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/08 19:42:05 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/08 19:42:09 Origin:  | Forwarded:  | Method: GET | RequestURI: /1
+2023/12/08 19:59:45 http: Server closed
+2023/12/08 19:59:45 shutting down
+2023/12/08 19:59:52 cannot get DB_URI from ENV
+2023/12/08 19:59:53 Database is initialized
+2023/12/08 19:59:53 cannot get AUTH_SIGNING_KEY from ENV
+2023/12/08 20:00:24 Origin:  | Forwarded:  | Method: GET | RequestURI: /1
+2023/12/08 20:00:32 Origin:  | Forwarded:  | Method: GET | RequestURI: /1
+2023/12/08 20:00:39 Origin:  | Forwarded:  | Method: GET | RequestURI: /
+2023/12/08 20:00:52 Origin:  | Forwarded:  | Method: GET | RequestURI: /character
+2023/12/08 20:00:52 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "character": invalid syntax
+2023/12/08 20:00:52 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/08 20:00:52 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/09 14:47:38 Origin:  | Forwarded:  | Method: GET | RequestURI: /character
+2023/12/09 14:47:38 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "character": invalid syntax
+2023/12/09 14:47:38 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/09 14:47:38 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/09 14:47:42 Origin:  | Forwarded:  | Method: GET | RequestURI: /character
+2023/12/09 14:47:42 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "character": invalid syntax
+2023/12/09 14:47:42 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/09 14:47:42 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/09 14:47:46 Origin:  | Forwarded:  | Method: GET | RequestURI: /1
+2023/12/09 17:51:55 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 17:51:57 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 17:51:57 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 17:51:57 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 17:51:57 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 17:51:57 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 17:51:57 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 17:51:57 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 17:51:57 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 17:56:14 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 17:56:14 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 17:56:14 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 17:56:14 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 17:56:14 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 17:56:14 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 17:56:14 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 17:56:15 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 17:56:15 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:16:54 http: Server closed
+2023/12/09 18:16:54 shutting down
+2023/12/09 18:17:49 cannot get DB_URI from ENV
+2023/12/09 18:17:49 Database is initialized
+2023/12/09 18:17:49 cannot get AUTH_SIGNING_KEY from ENV
+2023/12/09 18:19:55 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/09 18:19:55 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/09 18:19:57 Origin:  | Forwarded:  | Method: GET | RequestURI: /1
+2023/12/09 18:19:57 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/09 18:19:57 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/09 18:20:00 Origin:  | Forwarded:  | Method: GET | RequestURI: /1
+2023/12/09 18:20:00 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/09 18:20:00 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/09 18:20:03 Origin:  | Forwarded:  | Method: GET | RequestURI: /1
+2023/12/09 18:20:03 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/09 18:20:03 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/09 18:20:06 Origin:  | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 18:20:06 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/09 18:20:06 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/09 18:20:11 Origin:  | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:20:12 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/09 18:20:12 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/09 18:28:10 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:10 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:10 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:10 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:10 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:10 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:10 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:10 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:10 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:53 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:53 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:53 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:53 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:53 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:53 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:53 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:53 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:53 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:59 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:59 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:59 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:59 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:59 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:59 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:59 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:59 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:28:59 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:46:35 Origin:  | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:46:35 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/09 18:46:35 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/09 18:46:36 Origin:  | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:46:37 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/09 18:46:37 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/09 18:46:37 Origin:  | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:46:37 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/09 18:46:37 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/09 18:46:37 Origin:  | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:46:37 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/09 18:46:37 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/09 18:46:37 Origin:  | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:46:37 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/09 18:46:37 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/09 18:46:37 Origin:  | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:46:37 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/09 18:46:37 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/09 18:46:42 Origin:  | Forwarded:  | Method: GET | RequestURI: /1
+2023/12/09 18:46:42 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/09 18:46:42 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/09 18:46:44 Origin:  | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:46:45 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/09 18:46:45 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/09 18:48:57 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:48:57 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:49:42 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:49:42 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:49:47 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:49:47 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:53:09 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:53:09 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:53:21 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:53:21 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:55:01 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:55:01 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:55:21 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:55:21 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:58:57 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:58:57 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:59:06 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:59:06 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:59:12 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:59:12 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:59:32 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:59:32 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:59:33 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /characters
+2023/12/09 18:59:33 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "characters": invalid syntax
+2023/12/09 18:59:33 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /characters
+2023/12/09 18:59:33 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "characters": invalid syntax
+2023/12/09 18:59:33 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /characters
+2023/12/09 18:59:33 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "characters": invalid syntax
+2023/12/09 18:59:33 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /characters
+2023/12/09 18:59:33 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "characters": invalid syntax
+2023/12/09 18:59:33 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /characters
+2023/12/09 18:59:33 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "characters": invalid syntax
+2023/12/09 18:59:33 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /characters
+2023/12/09 18:59:33 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "characters": invalid syntax
+2023/12/09 18:59:33 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /characters
+2023/12/09 18:59:33 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "characters": invalid syntax
+2023/12/09 18:59:33 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /characters
+2023/12/09 18:59:33 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "characters": invalid syntax
+2023/12/09 18:59:33 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /characters
+2023/12/09 18:59:33 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "characters": invalid syntax
+2023/12/09 18:59:37 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:59:37 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 18:59:38 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /characters
+2023/12/09 18:59:38 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "characters": invalid syntax
+2023/12/09 18:59:38 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /characters
+2023/12/09 18:59:38 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "characters": invalid syntax
+2023/12/09 18:59:38 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /characters
+2023/12/09 18:59:38 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "characters": invalid syntax
+2023/12/09 18:59:38 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /characters
+2023/12/09 18:59:38 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "characters": invalid syntax
+2023/12/09 18:59:38 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /characters
+2023/12/09 18:59:38 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "characters": invalid syntax
+2023/12/09 18:59:38 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /characters
+2023/12/09 18:59:38 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "characters": invalid syntax
+2023/12/09 18:59:38 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /characters
+2023/12/09 18:59:38 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "characters": invalid syntax
+2023/12/09 18:59:38 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /characters
+2023/12/09 18:59:38 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "characters": invalid syntax
+2023/12/09 18:59:38 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /characters
+2023/12/09 18:59:38 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "characters": invalid syntax
+2023/12/09 19:04:23 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 19:04:23 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 19:31:32 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 19:31:32 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 19:31:53 Origin:  | Forwarded:  | Method: GET | RequestURI: /characters
+2023/12/09 19:31:53 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "characters": invalid syntax
+2023/12/09 19:31:53 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/09 19:31:53 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/09 20:42:59 Origin:  | Forwarded:  | Method: GET | RequestURI: /characters
+2023/12/09 20:42:59 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "characters": invalid syntax
+2023/12/09 20:42:59 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/09 20:42:59 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/09 20:43:00 Origin:  | Forwarded:  | Method: GET | RequestURI: /characters
+2023/12/09 20:43:00 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "characters": invalid syntax
+2023/12/09 20:43:00 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/09 20:43:00 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/09 21:01:43 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:01:43 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:05:48 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:05:48 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:08:25 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:08:25 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:10:46 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:10:46 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:13:25 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:13:25 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:13:40 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 21:13:40 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 21:14:43 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 21:14:43 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 21:14:52 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /1
+2023/12/09 21:14:52 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /1
+2023/12/09 21:14:56 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 21:14:56 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 21:17:31 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:17:31 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:19:37 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:19:37 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:20:35 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:20:35 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:23:44 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:23:44 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:23:56 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 21:23:56 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 21:25:38 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:25:38 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:25:42 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 21:25:42 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 21:25:44 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /1
+2023/12/09 21:25:44 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /1
+2023/12/09 21:43:55 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:43:55 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:44:07 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 21:44:07 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 21:44:20 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:44:20 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:44:21 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 21:44:21 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 21:54:50 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:54:50 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 21:55:25 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 21:55:25 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 22:02:56 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 22:02:56 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 22:05:54 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 22:05:55 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 22:12:06 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 22:12:06 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 22:23:28 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 22:23:28 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 22:23:29 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 22:23:29 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 22:27:40 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 22:27:40 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 22:27:44 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 22:27:44 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 22:29:51 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 22:29:51 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 22:29:56 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 22:29:56 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 22:32:23 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 22:32:23 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 22:32:25 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 22:32:25 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 22:45:37 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 22:45:37 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 22:53:22 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 22:53:22 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 23:01:50 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 23:01:50 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 23:02:01 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 23:02:01 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 23:02:02 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 23:02:02 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 23:03:15 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 23:03:15 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 23:05:57 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 23:05:57 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 23:07:51 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 23:07:51 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 23:08:05 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 23:08:05 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 23:10:18 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 23:10:18 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 23:10:37 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 23:10:37 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 23:12:49 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 23:12:49 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 23:13:33 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 23:13:33 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 23:15:36 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 23:15:36 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 23:25:57 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 23:25:57 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 23:28:02 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 23:28:02 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/09 23:28:05 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/09 23:28:05 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/10 13:28:24 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 13:28:25 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 13:28:57 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/10 13:28:57 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /2
+2023/12/10 16:23:46 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:23:46 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:27:21 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:27:21 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:29:23 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:29:23 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:31:57 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:31:57 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:32:21 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:32:21 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:32:32 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:32:32 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:35:20 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:35:21 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:36:01 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:36:01 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:40:13 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:40:13 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:44:57 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:44:57 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:48:13 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:48:13 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:50:26 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:50:26 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:52:20 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:52:20 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:54:48 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:54:48 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:57:27 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 16:57:27 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 17:01:44 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 17:01:46 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 17:08:09 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 17:08:09 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 17:17:40 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 17:17:40 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 17:22:33 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 17:22:33 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 17:25:37 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 17:25:37 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 17:34:20 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 17:34:20 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 17:37:12 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/10 17:37:13 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/11 17:41:35 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/11 17:41:37 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/11 17:42:50 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /sign_in
+2023/12/11 17:42:50 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "sign_in": invalid syntax
+2023/12/11 17:42:50 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /sign_in
+2023/12/11 17:42:50 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "sign_in": invalid syntax
+2023/12/11 20:34:40 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/11 20:34:41 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/11 20:34:49 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /login
+2023/12/11 20:34:49 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "login": invalid syntax
+2023/12/11 20:34:49 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /login
+2023/12/11 20:34:49 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "login": invalid syntax
+2023/12/11 20:34:59 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /sign_in
+2023/12/11 20:34:59 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "sign_in": invalid syntax
+2023/12/11 20:34:59 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /login
+2023/12/11 20:34:59 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "login": invalid syntax
+2023/12/11 20:34:59 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /login
+2023/12/11 20:34:59 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "login": invalid syntax
+2023/12/11 20:37:30 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/11 20:37:30 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/11 20:42:47 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/11 20:42:47 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/11 20:44:38 Origin: http://localhost:3000 | Forwarded:  | Method: OPTIONS | RequestURI: /user/register
+2023/12/11 20:44:38 Origin: http://localhost:3000 | Forwarded:  | Method: POST | RequestURI: /user/register
+2023/12/11 20:44:54 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/11 20:44:54 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/11 20:44:58 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/11 20:44:58 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/11 20:45:01 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/11 20:45:01 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/11 20:45:01 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/11 20:45:01 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/11 20:45:07 Origin:  | Forwarded:  | Method: GET | RequestURI: /
+2023/12/11 20:45:07 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/11 20:45:07 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/11 20:45:29 Origin:  | Forwarded:  | Method: GET | RequestURI: /user
+2023/12/11 20:45:30 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/11 20:45:30 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/11 20:45:59 Origin: http://localhost:3000 | Forwarded:  | Method: OPTIONS | RequestURI: /user/login
+2023/12/11 21:04:21 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/11 21:04:21 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/11 21:04:32 Origin: http://localhost:3000 | Forwarded:  | Method: OPTIONS | RequestURI: /user/register
+2023/12/11 21:04:32 Origin: http://localhost:3000 | Forwarded:  | Method: POST | RequestURI: /user/register
+2023/12/11 21:04:38 Origin: http://localhost:3000 | Forwarded:  | Method: OPTIONS | RequestURI: /user/login
+2023/12/11 21:04:38 Origin: http://localhost:3000 | Forwarded:  | Method: POST | RequestURI: /user/login
+2023/12/11 21:04:39 Error occured in handler.loginUser when login userLogin: user not found
+2023/12/11 21:04:39 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/11 21:04:39 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/11 21:07:27 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/11 21:07:27 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/11 21:10:46 Origin: http://localhost:3000 | Forwarded:  | Method: OPTIONS | RequestURI: /user/register
+2023/12/11 21:10:46 Origin: http://localhost:3000 | Forwarded:  | Method: POST | RequestURI: /user/register
+2023/12/11 21:10:50 Origin: http://localhost:3000 | Forwarded:  | Method: OPTIONS | RequestURI: /user/login
+2023/12/11 21:10:50 Origin: http://localhost:3000 | Forwarded:  | Method: POST | RequestURI: /user/login
+2023/12/11 21:10:50 Error occured in handler.loginUser when login userLogin: user not found
+2023/12/11 21:10:50 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/11 21:10:50 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/11 21:46:52 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/11 21:46:52 Origin: http://localhost:3000 | Forwarded:  | Method: GET | RequestURI: /
+2023/12/11 21:47:10 Origin: http://localhost:3000 | Forwarded:  | Method: OPTIONS | RequestURI: /user/register
+2023/12/11 21:47:10 Origin: http://localhost:3000 | Forwarded:  | Method: POST | RequestURI: /user/register
+2023/12/11 21:49:07 Origin: http://localhost:3000 | Forwarded:  | Method: OPTIONS | RequestURI: /user/register
+2023/12/11 21:49:07 Origin: http://localhost:3000 | Forwarded:  | Method: POST | RequestURI: /user/register
+2023/12/11 21:49:26 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/11 21:49:26 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax
+2023/12/11 21:49:27 Origin:  | Forwarded:  | Method: GET | RequestURI: /user
+2023/12/11 21:49:27 Origin:  | Forwarded:  | Method: GET | RequestURI: /favicon.ico
+2023/12/11 21:49:27 Error when parsing user_id to uint, Error: strconv.ParseUint: parsing "favicon.ico": invalid syntax

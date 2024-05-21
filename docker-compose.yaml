@@ -1,0 +1,39 @@
+version: "3"
+
+services:
+  backend:
+    build:
+      context: ./backend_go/
+    ports:
+      - 127.0.0.1:8000:8000
+    volumes:
+      - ./log:/log
+    environment:
+      - AUTH_SIGNING_KEY=sljefsuiefhnshjef
+      - DB_URI=api.db
+    restart: unless-stopped
+ 
+  frontend:
+    container_name: frontend
+    build: 
+      context: ./frontend/
+    volumes:
+      - ./:/app
+      - /app/node_modules
+    ports:
+      - 3000:3000
+    stdin_open: true
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+    command: npm start
+
+  nginx:
+    build:
+      context: ./nginx/
+    volumes:
+      - ./log:/log
+    ports:
+      - 80:80
+    restart: unless-stopped
+
+
